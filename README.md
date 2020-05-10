@@ -1,6 +1,6 @@
 ## This repo
 The below steps have already been run and configured with us-west-1 and runtime env nodejs12.x. You should be able to set up with just the 2 following commands:
-1. Run `aws config` to enter aws access keys
+1. Run `aws configure` to enter aws access keys
 2. Run `npm run setup` (Windows users: `npm run win-setup`) to set up and deploy to aws
 
 
